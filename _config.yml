@@ -1,7 +1,7 @@
 name: The Peakbaggers
 favicon: null
-layout_spectrum: 0.1312548362184316
-typography_spectrum: 0.3203262072056532
+layout_spectrum: 0.61853
+typography_spectrum: 0.72237
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.10690826969221234
-  lightness: 0.5292262239381671
-  saturation: 0.47748981113545597
-  rhythmicContrast: 0.10356115223839879
+    - '#ed156a'
+    - '#ffffff'
+    - '#75757f'
+    - '#16c1f3'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
