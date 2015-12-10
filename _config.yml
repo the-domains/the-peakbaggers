@@ -2,6 +2,7 @@ name: The Peakbaggers
 favicon: null
 layout_spectrum: 0.61853
 typography_spectrum: 0.72237
+title: thepeakbaggers
 cta:
   domain: null
   bucket: null
