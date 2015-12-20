@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Peakbaggers]]></title>
-        <description><![CDATA[The Peakbaggers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[thepeakbaggers]]></title>
+        <description><![CDATA[thepeakbaggers]]></description>
+        <link>https://thegrid.ai/the-peakbaggers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 22:24:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 04:16:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-peakbaggers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Peakbaggers]]></title>
+            <description><![CDATA[<article><h1>The Peakbaggers</h1><p>The Peakbaggers is a web series about one team's journey to the top of the highest peaks in every Canadian Province and Territory. Watch the full adventure unfold here and on YouTube. loading map - please wait... Map could not be loaded - please enable Javascript! → more information</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/528f624f8d462b0dbd2734bacd5c8626747ce4fb.jpg"></article>]]></description>
+            <link>http://thepeakbaggers.com/</link>
+            <guid isPermaLink="false">d8b1937f-3e50-4ff6-bd4d-aa8f7b0f4492</guid>
+            <pubDate>Sun, 20 Dec 2015 04:16:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://thepeakbaggers.com/files/2015/10/The-Peakbaggers-Maritimes-20-e1448919819300.jpg">]]></description>
-            <link>undefinednovember-30-2015-brian-why-were-taking-a-break-dont-worr/index.html</link>
+            <link>https://thegrid.ai/the-peakbaggers/november-30-2015-brian-why-were-taking-a-break-dont-worr/index.html</link>
             <guid isPermaLink="false">1038bbe9-0d87-4e5b-bc03-aa219359d812</guid>
             <pubDate>Thu, 10 Dec 2015 22:23:50 GMT</pubDate>
         </item>
