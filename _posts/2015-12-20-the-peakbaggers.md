@@ -17,7 +17,7 @@ keywords:
   - adventure
   - canadian
 description: "The Peakbaggers is a web series about one team's journey to the top of the highest peaks in every Canadian Province and Territory. Watch the full adventure unfold here and on YouTube. loading map - please wait... Map could not be loaded - please enable Javascript! → more information"
-datePublished: '2016-01-29T21:29:43.204Z'
+datePublished: '2016-01-29T21:29:43.231Z'
 dateModified: '2016-01-29T21:29:39.357Z'
 author:
   - name: brian
